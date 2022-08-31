@@ -13,3 +13,5 @@ mkdir : Create a script that creates a directory
 rm: creates a script that deletes a directory and files
 
 rm : use to Delete the directory my_first_directory that is in the /tmp directory.
+
+rmdir: changes the working directory to the previous one.
