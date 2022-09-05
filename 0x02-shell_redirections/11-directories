@@ -1,7 +1,5 @@
 #!/bin/bash
-git add .
-git commit -m "M"
-git push
+find -mindepth 1 -type d | wc -l
 
 
 
