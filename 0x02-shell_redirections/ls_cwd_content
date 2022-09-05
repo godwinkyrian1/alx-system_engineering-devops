@@ -1,13 +1,21 @@
-total 36
-drwxr-xr-x 2 root root 208 Sep  5 07:30 .
-drwxr-xr-x 6 root root 121 Sep  5 05:59 ..
--rwxr--r-- 1 root root  32 Sep  5 06:01 0-hello_world
--rwxr--r-- 1 root root  37 Sep  5 07:11 14-findthatword
--rwxr--r-- 1 root root  38 Sep  5 07:21 15-countthatword
--rwxr--r-- 1 root root  28 Sep  5 06:10 2-hellofile
--rwxr--r-- 1 root root  40 Sep  5 06:16 3-twofiles
--rwxr--r-- 1 root root  35 Sep  5 06:35 4-lastlines
--rwxr--r-- 1 root root  35 Sep  5 06:39 5-firstlines
--rwxr--r-- 1 root root  34 Sep  5 07:29 8-cwd_state
--rw-r--r-- 1 root root   0 Sep  5 07:30 ls_cwd_content
--rw-r--r-- 1 root root  54 Sep  5 06:06 README.md
+total 72
+drwxr-xr-x 2 root root 4096 Sep  5 09:47 .
+drwxr-xr-x 6 root root  121 Sep  5 09:36 ..
+-rwxr--r-- 1 root root   32 Sep  5 06:01 0-hello_world
+-rwxr--r-- 1 root root   19 Sep  5 08:58 10-no_more_js
+-rwxr--r-- 1 root root  128 Sep  5 09:25 11-directories
+-rwxr--r-- 1 root root   27 Sep  5 09:19 12-newest_files
+-rwxr--r-- 1 root root   37 Sep  5 07:11 14-findthatword
+-rwxr--r-- 1 root root   38 Sep  5 07:21 15-countthatword
+-rwxr--r-- 1 root root   42 Sep  5 07:44 18-letteronly
+-rwxr--r-- 1 root root   28 Sep  5 08:10 1-confused_smiley
+-rwxr--r-- 1 root root   28 Sep  5 06:10 2-hellofile
+-rwxr--r-- 1 root root   39 Sep  5 08:49 3-twofiles
+-rwxr--r-- 1 root root   35 Sep  5 06:35 4-lastlines
+-rwxr--r-- 1 root root   35 Sep  5 06:39 5-firstlines
+-rwxr--r-- 1 root root   36 Sep  5 09:35 6-third_line
+-rwxr--r-- 1 root root   71 Sep  5 08:09 7-file
+-rwxr--r-- 1 root root   35 Sep  5 09:47 8-cwd_state
+-rw-r--r-- 1 root root  744 Sep  5 09:32 iacta
+-rw-r--r-- 1 root root    0 Sep  5 09:47 ls_cwd_content
+-rw-r--r-- 1 root root   54 Sep  5 06:06 README.md
