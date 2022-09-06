@@ -1,5 +1,5 @@
 #!/bin/bash
-find -mindepth 1 -type d | wc -|
+find . -type d -name ".js" -delete
 
 
 
