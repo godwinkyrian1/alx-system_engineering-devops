@@ -1,5 +1,5 @@
 #!/bin/bash
-find . -type d -name ".js" -delete
+find . -type d -not -name ' ' | wc -l
 
 
 
